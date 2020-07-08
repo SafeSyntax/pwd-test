@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="187px" height="56px" viewBox="0 0 187 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>Apple Store Dark</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-1114.000000, -7248.000000)">
+            <g id="FOOTER" transform="translate(0.000000, 6908.000000)">
+                <g id="Our-Address-Copy" transform="translate(1114.000000, 340.000000)">
+                    <g id="Apple-Store-Dark">
+                        <rect id="button" fill="#373434" x="0.3125" y="0" width="186.375" height="56" rx="5"></rect>
+                        <text id="Download-on-the" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" letter-spacing="1.20000005" fill="#FFFFFF">
+                            <tspan x="55" y="18">Download on th</tspan>
+                            <tspan x="141.248243" y="18">e</tspan>
+                        </text>
+                        <text id="App-Store" font-family="SFUIDisplay-Medium, SF UI Display" font-size="20" font-weight="400" fill="#FFFFFF">
+                            <tspan x="55" y="39">App Store</tspan>
+                        </text>
+                        <path d="M34.7886558,40.073691 C33.4565284,42.0015928 32.0785651,43.9176359 29.9029601,43.9577972 C27.7618122,43.9979586 27.0753948,42.7026767 24.6321463,42.7026767 C22.1863335,42.7026767 21.4212257,43.9176359 19.3996199,43.9979586 C17.2992916,44.0757514 15.7022292,41.9157361 14.3591237,39.9965307 C11.615201,36.0724213 9.52093074,28.9010947 12.3375018,24.0614651 C13.732261,21.6579995 16.2315063,20.1373083 18.939818,20.0971627 C21.0024518,20.0595945 22.9509605,21.4733839 24.2108081,21.4733839 C25.4725789,21.4733839 27.8376178,19.775967 30.3239777,20.0249356 C31.3647423,20.0674845 34.2857424,20.4399729 36.1616508,23.1565545 C36.0134052,23.2529892 32.6750735,25.1751039 32.715781,29.179536 C32.7566487,33.9630029 36.9512793,35.553012 37,35.5746738 C36.9620171,35.6870939 36.3294489,37.8445793 34.7886558,40.073691 Z M25.6087493,14.2965658 C26.6763203,13.0162695 28.4801216,12.0639868 29.9687776,12 C30.1589643,13.7783958 29.4598798,15.5592473 28.4273745,16.8424997 C27.392789,18.1234479 25.6992365,19.1212839 24.0371837,18.9880501 C23.8113371,17.2481434 24.6490497,15.4335628 25.6087493,14.2965658 Z" id="logo" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
